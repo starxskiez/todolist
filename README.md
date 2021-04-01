@@ -17,15 +17,9 @@ First, you type in whatever you like in the "Type something here..." prompt. The
 
 ## Working On...
 
-☑ ~~Character Limit~~
-&nsbp;
-☐ A Filter
-&nsbp;
-☐ Fixing Bugs
-&nsbp;
-☐ Better Styling
-&nsbp;
-☐ Saving Feature
-&nsbp;
-☐ Delete All Feature
-&nsbp;
+- [x] ~~Character Limit~~
+- [ ] A Filter
+- [ ] Fixing Bugs
+- [ ] Better Styling
+- [ ] Saving Feature
+- [ ] Delete All Feature
