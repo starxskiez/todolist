@@ -18,8 +18,14 @@ First, you type in whatever you like in the "Type something here..." prompt. The
 ## Working On...
 
 ☑ ~~Character Limit~~
+&nsbp;
 ☐ A Filter
+&nsbp;
 ☐ Fixing Bugs
+&nsbp;
 ☐ Better Styling
-☐ Saving Feature 
+&nsbp;
+☐ Saving Feature
+&nsbp;
 ☐ Delete All Feature
+&nsbp;
